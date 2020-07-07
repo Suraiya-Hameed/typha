@@ -22,3 +22,5 @@ require (
 )
 
 replace github.com/sirupsen/logrus => github.com/projectcalico/logrus v1.0.4-calico
+
+replace github.com/projectcalico/libcalico-go => github.com/Suraiya-Hameed/libcalico-go v1.7.2-0.20200707153915-a23f27f776d5
